@@ -9,27 +9,27 @@
 CoreProtect
 ===========
 
-CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers.
+CoreProtect 是一个 Minecraft 服务器的疾速数据记录和保护插件.
 
-For a detailed description of the plugin, please visit [spigotmc.org/resources/coreprotect.8631](https://www.spigotmc.org/resources/coreprotect.8631/).
+想要了解关于此插件的进一步信息, 请访问 [SpigotMC](https://www.spigotmc.org/resources/coreprotect.8631/) 页面.
 
-| Quick Links |  |
+| 快速导航 |  |
 | --- | --- |
 | CoreProtect Discord: | [discord.gg/b4DZ4jy](https://discord.gg/b4DZ4jy) |
 | CoreProtect Patreon: | [patreon.com/coreprotect](https://www.patreon.com/coreprotect) |
-| CoreProtect Documentation: | [docs.coreprotect.net](https://docs.coreprotect.net) |
-| Downloads for MC 1.14 - 1.17: | [spigotmc.org/resources/coreprotect.8631](https://www.spigotmc.org/resources/coreprotect.8631/) |
-| Downloads for MC 1.8 - 1.12: | [coreprotect.net/legacy](https://coreprotect.net/legacy/) |
+| CoreProtect 文档: | [docs.coreprotect.net](https://docs.coreprotect.net) |
+| 官方 MC 1.14 - 1.17 下载: | [spigotmc.org/resources/coreprotect.8631](https://www.spigotmc.org/resources/coreprotect.8631/) |
+| 官方 MC 1.8 - 1.12 下载: | [coreprotect.net/legacy](https://coreprotect.net/legacy/) |
 
 bStats
 ------
-[![bStats Graph Data](https://bstats.org/signatures/bukkit/CoreProtect.svg)](https://bstats.org/plugin/bukkit/CoreProtect)
+[![bStats 数据](https://bstats.org/signatures/bukkit/CoreProtect.svg)](https://bstats.org/plugin/bukkit/CoreProtect)
 
 API
 ------
-### [API Documentation](https://docs.coreprotect.net/api/)
+### [API 文档](https://docs.coreprotect.net/api/)
 
-### Dependency Information
+### 依赖信息
 Maven
 ```xml
 <repository>
@@ -46,10 +46,10 @@ Maven
 </dependency>
 ```
 
-Contributing
+贡献
 ------
-CoreProtect is an open source project, and gladly accepts community contributions.
+CoreProtect 是一个开源项目, 并且非常欢迎来自社区的贡献.
 
-If you'd like to contribute, please read our contributing guidelines here: [CONTRIBUTING.md](CONTRIBUTING.md)
+如果你想为项目做出贡献, 请先阅读我们的贡献指南: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CONTRIBUTING.md#code-of-conduct) 
